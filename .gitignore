@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/csharp-parser/bin/Debug
+/csharp-parser/.vs/csharp-parser/v15

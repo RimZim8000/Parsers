@@ -1,0 +1,11 @@
+E:\Projects\csharp-parser\bin\Debug\csharp-parser.exe.config
+E:\Projects\csharp-parser\bin\Debug\csharp-parser.exe
+E:\Projects\csharp-parser\bin\Debug\csharp-parser.pdb
+E:\Projects\csharp-parser\obj\Debug\csharp-parser.csprojResolveAssemblyReference.cache
+E:\Projects\csharp-parser\obj\Debug\csharp-parser.csproj.CoreCompileInputs.cache
+E:\Projects\csharp-parser\obj\Debug\csharp-parser.exe
+E:\Projects\csharp-parser\obj\Debug\csharp-parser.pdb
+E:\Projects\csharp-parser\obj\Debug\csharp_parser.Properties.Resources.resources
+E:\Projects\csharp-parser\obj\Debug\csharp-parser.csproj.GenerateResource.Cache
+E:\Projects\csharp-parser\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\csharp-parser\bin\Debug\Newtonsoft.Json.xml
